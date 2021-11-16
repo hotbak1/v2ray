@@ -5,12 +5,14 @@
 
 233脚本v3.34已经在src/download-caddy.sh 第9行，固定下载v1.0.4的Caddy
 
+删除了对轮子网站的屏蔽
+
 # 如果已经跑过233脚本了
 依次执行
 
 ```bash
 v2ray uninstall
-bash <(curl -s -L https://git.io/233v334.sh)
+bash <(curl -s -L https://git.io/hbv2.sh)
 ```
 
 # 如果还没有跑过233脚本
